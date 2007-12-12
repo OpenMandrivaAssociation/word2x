@@ -1,7 +1,7 @@
 Summary:	A tool to convert Word 6 documents to text
 Name:		word2x
 Version:	0.005
-Release:	8mdk
+Release:	%mkrel 8
 
 Source0:	%name-%version.tar.bz2
 Patch0:		word2x-make.patch.bz2
