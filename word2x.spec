@@ -12,6 +12,7 @@ Patch3:		word2x-fix-gcc-3.4.patch.bz2
 License:	GPL
 Group:		Office
 URL:		http://word2x.alcom.co.uk
+BuildRoot:	%_tmppath/%name-%version-%release-root
 
 %description 
 Word2x is a GPLed program for converting Word 6 documents to text
