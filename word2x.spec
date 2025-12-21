@@ -14,6 +14,7 @@ Group:		Office
 URL:		https://word2x.alcom.co.uk
 BuildRoot:	%_tmppath/%name-%version-%release-root
 
+BuildRequires:	make
 %description 
 Word2x is a GPLed program for converting Word 6 documents to text
 without any Microsoft software to help you, including non-microsoft
